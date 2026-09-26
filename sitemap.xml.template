@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace PUBLIC_BASE_URL at deployment time; canonical URLs require the real public domain. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>PUBLIC_BASE_URL/about.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/ask.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/community.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/connections.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/contribute.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/evidence.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/explore.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/guidelines.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/how-it-works.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/index.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/join.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/learn.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/now.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/people.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/privacy.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/research.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/roadmap.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/stories.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/themes.html</loc></url>
+  <url><loc>PUBLIC_BASE_URL/why.html</loc></url>
+</urlset>

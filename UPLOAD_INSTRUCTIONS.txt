@@ -1,0 +1,9 @@
+IMPORTANT: GitHub Pages cannot run a ZIP file directly.
+1. Unzip this file once on your Mac.
+2. Open the extracted folder.
+3. Select ALL contents inside (index.html, v16.css, assets, scripts, etc.).
+4. GitHub repo -> Add file -> Upload files -> drag all selected contents.
+5. Commit changes.
+6. Settings -> Pages -> Deploy from branch -> main -> /(root).
+
+The repo root MUST visibly show index.html.
